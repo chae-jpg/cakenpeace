@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cakenpeace
-- 👀 I’m interested in music, rhythm games
+- 👀 I’m interested in music, and rhythm games
 - 🌱 I’m currently learning C
 - 💚 Welcome, and have a good day!
 
