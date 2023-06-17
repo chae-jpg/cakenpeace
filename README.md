@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # 안녕하세요! 이채원입니다.
 <div align = "center">
 - 컴퓨터공학전공 2학년 재학 중인 학부생입니다. <br><br>
-- 음악과 뜨개질을 좋아합니다. <br><br>
+- 음악을 좋아합니다. <br><br>
 </div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=worung)](https://solved.ac/worung)
