@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![채원's GitHub stats](https://github-readme-stats.vercel.app/api?username=chae-jpg)](https://github.com/chae-jpg/github-readme-stats) 
-<span style="width: 10px;">       <>
+<span style="width: 10px;"></span>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=worung)](https://solved.ac/worung) 
